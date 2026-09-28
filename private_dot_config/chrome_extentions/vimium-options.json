@@ -1,0 +1,9 @@
+{
+  "exclusionRules": [],
+  "grabBackFocus": true,
+  "keyMappings": "# Insert your preferred key mappings here.\nmap l scrollDown\nunmap j\n\nunmap J\nunmap L\nunmap K\n\nmap : goForward\nmap L nextTab\nmap K previousTab",
+  "linkHintCharacters": "sadfyklewcmpgh",
+  "searchEngines": "wu: https://www.wordreference.com/EnglishUsage/%s wordreference usage\nwc: https://www.wordreference.com/EnglishCollocations/%s wordreference collocation\nw: https://www.wordreference.com/definition/%s wordreference definiition\nl: https://www.ldoceonline.com/dictionary/%s longman\ncr: https://www.collinsdictionary.com/dictionary/english/%s collins\ncd: https://dictionary.cambridge.org/dictionary/learner-english/%s cambridge\nn: https://netspeak.org/#q=%s netspeak\noc: https://www.freecollocation.com/browse/%s oxford_collocation\nyg: https://youglish.com/pronounce/%s/english/us\n\nms: https://learn.microsoft.com/en-us/search/?terms=%s&category=Documentation&products=%2Fdevrel%2F7696cda6-0510-47f6-8302-71bb5d2e28cf csharp document\n\ngt: https://translate.google.com/?sl=en&tl=ja&text=%s&op=translate\n\ncp: https://www.collinsdictionary.com/sounds/hwd_sounds/en_us_%s.mp3 #collins pronounciation\n\nck: https://schools.collinsdictionary.com/dictionary/primary/%s\n\ne: https://www.google.com/search?q=%s&sca_esv=faa452d4feed5551&gl=us&hl=en&pws=0&sxsrf=APpeQnsKZsUhN-cMmM9tR_jUIhi8jH8ISQ%3A1782355251109&source=hp&ei=M5U8asirBPWLhbIPzePC-AE&iflsig=ABILxe8AAAAAajyjQ_95Czw503RqF_cWXJwfJfHI9FYk&ved=0ahUKEwiIkercrqGVAxX1RUEAHc2xEB8Q4dUDCD4&uact=5&oq=hello&gs_lp=Egdnd3Mtd2l6IgVoZWxsbzIFEC4YgAQyCBAAGIAEGMkDMgsQABiABBiKBRiSAzILEAAYgAQYigUYkgMyBRAAGIAEMgUQLhiABDIFEAAYgAQyCxAuGIAEGMcBGNEDMgUQABiABDIFEAAYgARIlwhQ8QFYowdwAXgAkAEAmAGmAaAB8gSqAQMwLjW4AQPIAQD4AQGYAgWgAqgFqAIAmAMC8QUnCzmnxx1CgJIHAzAuNaAHsTSyBwMwLjW4B6gFwgcFMi0zLjLIByiACAE&sclient=gws-wiz\n\ny: https://www.youtube.com/results?search_query=%s",
+  "settingsVersion": "2.4.2",
+  "smoothScroll": false
+}
